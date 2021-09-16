@@ -20,7 +20,8 @@ Running the app is simple but requires you to download some libraries which can 
 * import werkzeug
 
 Once libraries are downloaded simply run the app in your prefered IDE. Next, you should see a link to http://127.0.0.1:5000/ which you can open on your perferred browser. From here simply choose a file from the pred folder and click predict. 
-If you simply wish to see the CNN work without opening the web app you can use the mainTest.py file. Here you can load yuor selected image from OpenCV through the ``cv2.imread("pred\'imagename here'")`` function and simpy run the file in terminal. 0 = no tumor, 1 = tumor.
+If you simply wish to see the CNN work without opening the web app you can use the mainTest.py file. Here you can load your selected image from OpenCV through the 
+``cv2.imread("pred\'imagename here'")`` function and simpy run the file in terminal. 0 = no tumor, 1 = tumor.
 
 ## Results
 ![results](https://user-images.githubusercontent.com/81998785/133630499-debfaa7a-17b9-442e-9c27-59b4b103a968.JPG)
