@@ -1,8 +1,6 @@
 # Brain-Tumor-Detection-CNN
 ## Brain Tumor Classification Using Deep Learning
 
-This is the repository contains the datasets and python files for my brain tumor detection app.
-
 ## Getting Started
 
 This is the repository contains the datasets and python files for my brain tumor detection app. I have used a cconvaluted neural network (CNN) to classify MRI Brain Images as either having a tumor or no tumor.
